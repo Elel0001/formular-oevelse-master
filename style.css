@@ -1,0 +1,17 @@
+label,
+input,
+textarea,
+select,
+button {
+  display: block;
+}
+
+form {
+  display: grid;
+  gap: 0.5rem;
+}
+
+.form-felt {
+  display: grid;
+  gap: 5px;
+}
